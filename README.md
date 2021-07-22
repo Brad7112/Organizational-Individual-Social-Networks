@@ -8,7 +8,7 @@ Data cleaning:
 4. Append 2010 and 2012 to increase the number of observation
 5. Change "20 Don't want to state the income", "21 Don't know", and "99 No answer" to missing value related to the variable "As to "Respondent annual income: Overall"
 6. Create dummy variable related to the variable "Last school respondent attended"
-7. Divide floor by 10 and delete decimal point related to categorical variable relate to "ageb
+7. Divide floor by 10 and delete decimal point related to categorical variable related to "ageb"
 8. Delete "9 No answer" and replace "8 Not applicable" into "O Not chosen" about each volunteer activities
 9. Create a new variable to mean all volunteer activities excluding "experience of volunteer activities: None"
 10. Reorganize "Currently married" and "Cohabiting" and reorganize "Divorce", "Widowed", "Never married", and "Separated" related to the variable "marital stasus"
