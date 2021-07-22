@@ -16,7 +16,7 @@ Data cleaning:
 12. Drop "9 No answer" and reorganize "I worked last week" and "I was going to work last week, but did not work" related to the variable "work status"
 
 Estimate logistic regression:
-Dependent variables: any volunteer activities, and specific volunteer activities such as " ", " ", "●
-Any volunteer activities: the person who did at least one volunteering or five volunteer activities
+1. Dependent variables: any volunteer activities, and specific volunteer activities such as " ", " ", "●
+1-1. Any volunteer activities: the person who did at least one volunteering or five volunteer activities
 
 For more details, please see my paper and do-file.
