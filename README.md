@@ -6,10 +6,10 @@ Data cleaning:
 2. Change "No Answer" to missing values
 3. Create categorical variable related to the variable "the year living in the same place"
 4. Append 2010 and 2012 to increase the number of observation
-5. Change "20 Don't want to state the income", "21 Don't know", and "99 No answer" to missing value related to the variable "As to "Respondent annual income: Overall"
+5. Change "20 Don't want to state the income", "21 Don't know", and "99 No answer" to missing values related to the variable "As to "Respondent annual income: Overall"
 6. Create dummy variable related to the variable "Last school respondent attended"
 7. Divide floor by 10 and delete decimal point related to categorical variable related to "ageb"
-8. Delete "9 No answer" and replace "8 Not applicable" into "O Not chosen" about each volunteer activities
+8. Delete "9 No answer" and replace "8 Not applicable" with "O Not chosen" related to each volunteer activities
 9. Create a new variable to mean all volunteer activities excluding "experience of volunteer activities: None"
 10. Reorganize "Currently married" and "Cohabiting" and reorganize "Divorce", "Widowed", "Never married", and "Separated" related to the variable "marital stasus"
 11. Drop "9 No answer" and reorganize "Almost everyday" and "Several times a week" related to the variable "frequency of meals with friends"
@@ -19,4 +19,4 @@ Estimate logistic regression:
 1. Dependent variables: any volunteer activities, and specific volunteer activities such as "Improving town", "Protection of the Nature and Environment", "Safety", "Sports, Culture, Art and Research", "Children".  
 1-1. Any volunteer activities: the person who did at least one volunteering of five volunteer activities.
 
-For more details, please see my paper and do-file.
+For more further details, please see my paper and do-file.
