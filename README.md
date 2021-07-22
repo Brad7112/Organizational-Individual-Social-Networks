@@ -1,9 +1,9 @@
 # Organizational-Individual-Social-Networks
 Made in compliance with NVSQ data transparency for experiments
 
-
-Keep necessary variables
-Change "No Answer" to missing values
+Data cleaning: 
+1. Keep necessary variables
+2. Change "No Answer" to missing values
 Create categorical variable related to the variable "the year living in the same place"
 Append 2010 and 2012 to increase the number of observation
 Change "20 Don't want to state the income", "21 Don't know", and "99 No answer" to missing value related to the variable "As to "Respondent annual income: Overall"
