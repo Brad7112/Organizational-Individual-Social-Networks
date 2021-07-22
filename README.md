@@ -17,6 +17,6 @@ Data cleaning:
 
 Estimate logistic regression:
 1. Dependent variables: any volunteer activities, and specific volunteer activities such as " ", " ", "●.  
-1-1. Any volunteer activities: the person who did at least one volunteering or five volunteer activities
+1-1. Any volunteer activities: the person who did at least one volunteering or five volunteer activities.
 
 For more details, please see my paper and do-file.
