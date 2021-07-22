@@ -19,4 +19,4 @@ Estimate logistic regression:
 1. Dependent variables: any volunteer activities, and specific volunteer activities such as "Improving town", "Protection of the Nature and Environment", "Safety", "Sports, Culture, Art and Research", "Children".  
 1-1. Any volunteer activities: the person who did at least one volunteering of five volunteer activities.
 
-For more further details, please see my paper and do-file.
+For further details, please see my paper and do-file.
