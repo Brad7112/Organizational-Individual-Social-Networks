@@ -1,6 +1,8 @@
 # Organizational-Individual-Social-Networks
 Made in compliance with NVSQ data transparency for experiments
 
+For more detail see my paper
+
 keep necessary variables
 change "No Answer" to missing values
 Create categorical variable related to the variable "the year living in the same place"
